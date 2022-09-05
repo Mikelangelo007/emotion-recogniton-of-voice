@@ -9,7 +9,7 @@ Step 4: Run This code: python train_test.py -p "PATH_TO_DATASET" -c "PATH_TO_REC
 When you use -b it sets balace to true
 Available emotions:
        "W": "angry", "L": "boredom", "E": "disgust", "A": "fear","F": "happy","T": "sad","N": "neutral"
-Scripts chooses best classification by itself
+Script chooses best classification by itself
 
 Example: ![Screenshot from 2022-09-06 01-59-17](https://user-images.githubusercontent.com/62353546/188519159-94fb203b-e703-4d87-b513-a77d55622dcd.png)
 
