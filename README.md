@@ -11,3 +11,6 @@ Available emotions:
        "W": "angry", "L": "boredom", "E": "disgust", "A": "fear","F": "happy","T": "sad","N": "neutral"
 
 Example: 
+
+
+codes from this repo also used: https://github.com/x4nth055/emotion-recognition-using-speech
