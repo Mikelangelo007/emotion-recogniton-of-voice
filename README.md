@@ -10,7 +10,8 @@ When you use -b it sets balace to true
 Available emotions:
        "W": "angry", "L": "boredom", "E": "disgust", "A": "fear","F": "happy","T": "sad","N": "neutral"
 
-Example: 
+Example: ![Screenshot from 2022-09-06 01-59-17](https://user-images.githubusercontent.com/62353546/188519159-94fb203b-e703-4d87-b513-a77d55622dcd.png)
+
 
 
 codes from this repo also used: https://github.com/x4nth055/emotion-recognition-using-speech
